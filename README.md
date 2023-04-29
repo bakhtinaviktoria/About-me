@@ -1,0 +1,11 @@
+# Обо мне
+
+Меня зовут **Виктория** и я очень увлеченный человек!
+
+## Несколько интересных фактов:
+1. По профессии я - педагог-психолог и работаю в школе. 
+2. Люблю путешествовать даже по России. Последнее путешествие - _город Грозный_. 
+3. 3 года учила корейский язык и даже ездила в _Южную Корею_.
+4. У меня есть кошка **Марго**.
+
+![](https://lh3.googleusercontent.com/pw/AJFCJaVQzld2sktnCliqLzPcuIMJM-Y6cgJ5UJ-RtOeHqi6nGi5fuNcDeBs-Igq3mUx5ZE_IlQEAMNN6omci3Hy6F1BCQeqv2YuRXfEZwDm40flRVPBFIkNI-vzfJoqTFBWLSHZqIo-yGTwFauS1aa4TkcYF-Jq2arIZhdWdL834Edgp1qfLEFUQAzmewqRjDBhN0Srshpq5Zx-UFLstu4qiPIfjKiznoSTc3i9YJcNUWTqjKGYjdH9OWcF29bKt0xXZ3Ja-WJYTytq_Sa7bwrC0G0_6K5c8Kc-C68gNQhk-7DCp51lGpsxTlu1yjZO5nZfmJLfWgkLBwhsVQsEBP4Llf8U71iong7tfuxlk4aYp3W6ZUPFk4V0nBj3JEkI11yDT8ncwD-EHrDqcpVUEbIsSofIkAqvtsOo1vR859EciTUjJxXgTp_qfjf_QR4mkEFRQ3a1fvLx6x0CJeBPOhk-iLfhQMTZWU4ZHQxFLBY2_kTK4gMd38VlTns3K2urJ_vCoO0yH76E0916yNgEUB7RQX7LG6nhSoAn3VVek04zZBrq2aHlgfo8iqoFZ0hpd6ahJlkmqjSKC82YNg_DohTzKKVw8zGOFh6R7hfn_10rH8HzPY2-z0zIBOTornDz815YPtNLPaAQUFZZUf_tamOmWmL_CGyTXi5Nu1GptU2Vida3d9SRdOy801iTBgs3c_dpA4btI6T0yqp1o2kPSEYbltmK2WnXO8mYL9u_bmFgqdIjkQhP-CFzuQiM2tKbM7h6FkrWGdJoWAcAo9QEOk1Dx1cUIuBLkSHIPle66EeDxkAVb31nXOzBbucJtU2MN5CEcxjZ7TKXpmTk3EhTGCneHOQdIme0g3FTaFrj021W1V_QhiHhwP9RDSGykwm62h657MsZ38Fw0XXLUDhXwFvT6I9o=w530-h942-s-no?authuser=0)
